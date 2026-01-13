@@ -1,0 +1,9 @@
+[package]
+name = "rust_filler"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+headless_chrome = "1.0.20"
+playwright = "0.0.20"
+tokio = "1.49.0"
